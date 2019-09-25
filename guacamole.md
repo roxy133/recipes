@@ -1,10 +1,11 @@
 # Ingredients
 
--avacado
--lime or lemon
--salt
+- avacado
+- lime or lemon
+- salt
 
 # Instructions
 
 -get a bowl
--finely slice avacado
+- get a knife and slice avacado
+
