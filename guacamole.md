@@ -7,3 +7,4 @@
 # Instructions
 
 -get a bowl
+-finely slice avacado
