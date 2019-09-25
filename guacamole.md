@@ -1,4 +1,5 @@
 # Ingredients
+
 -banana 
 -avacado
 -lime or lemon
@@ -6,4 +7,5 @@
 
 # Instructions
 
--get a bowl
+- get a bowl
+- get a knife
