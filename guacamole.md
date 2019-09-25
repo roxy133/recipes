@@ -7,5 +7,6 @@
 
 # Instructions
 
-- get a bowl
-- get a knife
+-get a bowl
+- get a knife and slice avacado
+
