@@ -1,9 +1,10 @@
 # Ingredients
 
--avacado
--lime or lemon
--salt
+- avacado
+- lime or lemon
+- salt
 
 # Instructions
 
--get a bowl
+- get a bowl
+- get a knife
